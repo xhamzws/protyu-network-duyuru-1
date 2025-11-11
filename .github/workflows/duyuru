@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROTYU NETWORK | RESMİ DUYURU</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+        }
+        .container {
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            max-width: 800px;
+            padding: 30px;
+            border-top: 5px solid #0056b3; /* Kurumsal Mavi Çizgi */
+        }
+        h1 {
+            color: #0056b3; /* Kurumsal Mavi */
+            border-bottom: 2px solid #e0e0e0;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+            font-size: 1.8em;
+            text-align: center;
+        }
+        h2 {
+            color: #1a1a1a;
+            border-left: 4px solid #32cd32; /* Canlı Yeşil Vurgu */
+            padding-left: 10px;
+            margin-top: 25px;
+            font-size: 1.3em;
+        }
+        p {
+            line-height: 1.6;
+            margin-bottom: 15px;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        ul li {
+            background-color: #f9f9f9;
+            margin-bottom: 8px;
+            padding: 10px;
+            border-radius: 5px;
+            border-left: 3px solid #00bfff; /* Mavi/Cyan İkinci Vurgu */
+        }
+        .warning {
+            background-color: #fff3cd; /* Sarı Uyarı Arkaplanı */
+            border: 1px solid #ffeeba;
+            color: #856404;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 30px;
+        }
+        .ip-address {
+            text-align: center;
+            margin-top: 30px;
+            padding: 15px;
+            background-color: #e0f7fa;
+            border-radius: 8px;
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #00796b;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>PROTYU NETWORK | KAPSAMLI İÇERİK, SÜRDÜRÜLEBİLİRLİK VE SERVİS BİLDİRİMİ</h1>
+
+        <p><strong>PROTYU NETWORK YÖNETİMİNDEN RESMİ AÇIKLAMA</strong></p>
+        
+        <p>Değerli Protyu Network Kullanıcıları,</p>
+        
+        <p>Planlı teknik bakım ve içerik entegrasyon süreçleri ekibimiz tarafından başarıyla tamamlanmıştır. Çalışmalar, hizmet kalitemizi ve oyun deneyiminizi uluslararası standartlara taşımak amacıyla gerçekleştirilmiştir.</p>
+
+        <h2>I. ENTEGRE EDİLEN YENİ İÇERİKLER</h2>
+        <p>Sunucumuzun ana çekirdeğine, oyunun en güncel sürümlerinden kritik içerikler dahil edilmiştir. Artık oyun dünyamızda erişebileceğiniz temel yenilikler aşağıdadır:</p>
+        
+        <ul>
+            <li><strong>Antik Şehirler (Ancient Cities):</strong> Yüksek seviyeli keşif ve ödül mekanikleri içeren, Deep Dark biyomlarındaki bu yapılar erişime açılmıştır.</li>
+            <li><strong>Warden Varlığı:</strong> Antik Şehirlerin korunmasından sorumlu olan zorlu varlık Warden, dünyada aktif hale getirilmiştir.</li>
+            <li><strong>Mangrove Ekolojisi:</strong> Yeni Mangrove ağaçları, bataklık biyomları ve yeni yapısal malzemeler entegre edilmiştir.</li>
+            <li><strong>Yeni Mekanikler:</strong> Eşya toplama mekanizmasını değiştiren **Allay** ve **Kurbağa/Kurbağa Işığı** özellikleri tam olarak işlevseldir.</li>
+        </ul>
+
+        <h2>II. ALTYAPI VE SÜRÜM UYUMLULUĞU</h2>
+        <ul>
+            <li><strong>Çoklu Sürüm Desteği:</strong> Sunucumuza <strong>1.20 ve üzeri tüm Minecraft sürümlerindeki</strong> oyuncular tarafından sorunsuz bir şekilde erişilebilir durumdadır. Bu geniş sürüm yelpazesinde istikrarlı bağlantı garantisi sağlanmaktadır.</li>
+        </ul>
+        
+        <h2>III. YERLEŞİM DÜZENLEMESİ VE DİKKAT ÇEKİLMESİ GEREKEN HUSUSLAR</h2>
+        <ul>
+            <li><strong>Kasa Erişim Noktaları:</strong> Tüm Crazy Crates kasa erişim noktalarının fiziksel konumları, Spawn alanının güncellenen mimari düzenine uygun olarak <strong>değiştirilmiştir.</strong></li>
+            <li><strong>Günlük Ödül NPC'si:</strong> Günlük ödül sistemine erişim sağlayan NPC'nin (Fantom) yerleşimi, oyuncu akışını optimize etmek amacıyla <strong>yeniden yapılandırılmıştır.</strong></li>
+        </ul>
+        
+        <h2>IV. HATA BİLDİRİM PROSEDÜRÜ VE GERİ DÖNÜŞ ÇAĞRISI</h2>
+        <p>Kapsamlı bir altyapı entegrasyonundan sonra, beklenmedik yazılımsal aksaklıklar (bug) oluşması teknik bir olasılıktır. Lütfen hataları tespit ettiğiniz anda Discord sunucumuzdaki ilgili bildirim kanalı üzerinden detaylı geri bildirim sağlayınız. Geri bildirimleriniz, sunucunun uzun vadeli istikrarı için kritik öneme sahiptir.</p>
+
+        <div class="warning">
+            <h2>V. SERVİS SAĞLAYICI KAYNAKLI KESİNTİLER HAKKINDA ÖN BİLGİLENDİRME</h2>
+            <p>Önümüzdeki dönemde, ana hizmet sağlayıcımızın sistemlerinde gerçekleştireceği optimizasyon çalışmaları nedeniyle planlanmamış kısa veya uzun süreli kesintiler yaşanma ihtimali bulunmaktadır.</p>
+            <ul>
+                <li><strong>Önemli Not:</strong> Yaşanması muhtemel bu kesintiler, <strong>Protyu Network'ün sunucu yazılımı veya yönetimi ile ilgili değildir.</strong> Tamamen harici hizmet sağlayıcımızın kontrolündedir. Anlayışınız ve sabrınız için teşekkür ederiz.</li>
+            </ul>
+        </div>
+
+        <div class="ip-address">
+            Sunucu IP Adresi: oyna.protyu.com.tr
+        </div>
+
+        <p style="text-align: right; margin-top: 40px; font-style: italic;">Bilgilerinize sunulmuştur.</p>
+        <p style="text-align: right; font-weight: bold;">Protyu Network Yönetimi</p>
+    </div>
+</body>
+</html>
